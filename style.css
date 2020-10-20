@@ -3,11 +3,11 @@
 }
 
 .heading {
-    font-family: Arial;
+    font-family: Consolas;
     margin-top:40vh;
 }
 .backgroundcolor {
-    background-color: lightblue ;
+    background-color: lightred ;
 }
 
 .URL-input, .convert-button {
